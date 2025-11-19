@@ -1,0 +1,11 @@
+{
+  "name": "@node-drop/transform",
+  "version": "1.0.0",
+  "description": "Transform data by adding, modifying, renaming, or removing fields",
+  "main": "nodes/Transform.node.js",
+  "nodeDrop": {
+    "nodes": [
+      "nodes/Transform.node.js"
+    ]
+  }
+}
